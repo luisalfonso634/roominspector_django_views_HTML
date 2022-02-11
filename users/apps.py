@@ -1,3 +1,4 @@
+#User app Configuration
 from django.apps import AppConfig
 
 
